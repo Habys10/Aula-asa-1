@@ -1,3 +1,6 @@
+Formatação de Texto
+=====================
+
 Como destacar parte de um texto, com *itálico* ou **negrito**. 
 Podde-se também destacar um texto com fonte ``monoespaçada``.
 
@@ -10,6 +13,9 @@ Percebe-se, então, que para formatar em:
  
  A fonte monoespaçada é útil para citar comandos ou para citar trechos de código.
  
+ Listas
+ =======
+ 
  Vamos criar uma lista? 
  Para criar uma lista:
 
@@ -19,3 +25,5 @@ Percebe-se, então, que para formatar em:
  * Inicie uma linha com asterisco (*)
  * Digite espaço
  * Digite o texto que vai aparecer neste item da lista.
+
+`Formatação de Texto`
