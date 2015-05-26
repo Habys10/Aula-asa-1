@@ -4,6 +4,8 @@ Formatação de Texto
 Como destacar parte de um texto, com *itálico* ou **negrito**. 
 Podde-se também destacar um texto com fonte ``monoespaçada``.
 
+Veja mais em `Listas`_
+
 Percebe-se, então, que para formatar em:
  *Itálico: cerca-se o texto com asterisco(*)
  
@@ -26,4 +28,4 @@ Percebe-se, então, que para formatar em:
  * Digite espaço
  * Digite o texto que vai aparecer neste item da lista.
 
-`Formatação de Texto`
+`Formatação de Texto`_
